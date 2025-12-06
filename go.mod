@@ -1,0 +1,3 @@
+module GOLANG-PROJECT
+
+go 1.25.5
